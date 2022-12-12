@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdoFood", "OdoFood.csproj", "{0F792C4C-688F-48CB-95F2-1D37FC3222E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Core", "..\OdeToFood.Core\OdeToFood.Core.csproj", "{434424C3-051A-4736-BEF4-FBCE96084BF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F792C4C-688F-48CB-95F2-1D37FC3222E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F792C4C-688F-48CB-95F2-1D37FC3222E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F792C4C-688F-48CB-95F2-1D37FC3222E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434424C3-051A-4736-BEF4-FBCE96084BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434424C3-051A-4736-BEF4-FBCE96084BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434424C3-051A-4736-BEF4-FBCE96084BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434424C3-051A-4736-BEF4-FBCE96084BF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
